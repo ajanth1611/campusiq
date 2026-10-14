@@ -1,0 +1,13 @@
+student_id,name,department,semester,cgpa,marks_percentage,backlog_count,attendance_overall,lms_assignment_completion,lms_login_frequency,extracurricular_score,technical_skills_score,aptitude_score,coding_score,mock_interview_score,student_feedback_score
+CIQ2022001,Karan Saxena,Information Technology,4,8.26,91.3,0,88.0,87.7,17,35.8,65.5,55.6,37.9,50.8,4.2
+CIQ2022002,Pranav Deshmukh,Artificial Intelligence & Data Science,1,6.99,72.8,0,85.5,83.5,13,61.9,68.8,74.4,65.3,62.4,3.6
+CIQ2022003,Chetan Gupta,Mechanical Engineering,8,8.65,84.2,0,91.5,93.9,19,75.3,85.2,92.8,94.6,92.5,5.0
+CIQ2022004,Nikhil Rao,Computer Science & Engineering,3,5.17,56.5,3,57.0,34.9,2,36.7,48.3,45.1,31.3,41.2,2.7
+CIQ2022005,Varun Kapoor,Artificial Intelligence & Data Science,1,9.36,92.7,0,92.1,88.1,14,36.0,63.4,49.9,38.8,38.4,4.3
+CIQ2022006,Arjun Chopra,Information Technology,5,5.88,58.8,0,64.0,70.9,12,79.1,94.1,84.0,93.1,88.2,4.2
+CIQ2022007,Kavya Mishra,Mechanical Engineering,4,5.7,53.3,0,65.1,67.5,15,81.5,81.8,79.1,96.5,79.1,4.2
+CIQ2022008,Simran Gupta,Artificial Intelligence & Data Science,8,8.4,88.9,0,90.0,91.6,22,86.2,93.1,84.8,85.9,86.4,4.5
+CIQ2022009,Kavya Patel,Computer Science & Engineering,4,9.24,89.7,0,86.8,92.5,18,91.0,93.4,82.7,98.0,87.7,5.0
+CIQ2022010,Riya Mishra,Computer Science & Engineering,7,7.09,66.4,0,81.6,80.9,11,59.9,68.3,68.1,56.4,63.9,3.6
+CIQ2022011,Aditi Das,Electronics & Communication,6,9.12,87.1,0,95.8,90.2,20,55.0,54.4,56.6,43.9,49.6,3.8
+CIQ2022012,Dia Chauhan,Electronics & Communication,4,4.4,52.8,3,55.0,34.9,5,29.9,45.4,49.2,40.5,44.7,2.5
